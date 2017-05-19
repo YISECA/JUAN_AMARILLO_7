@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Ciclopaseo Humedal de Juan Amarillo  Junio 04 de 2017
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Ciclopaseo Humedal de Juan Amarillo  Junio 11 de 2017
 </div>
 
                     </div>
@@ -117,7 +117,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 04 Junio de 2017</p>
+                                            <p>Domingo 11 Junio de 2017</p>
 
                                         </td>
 
